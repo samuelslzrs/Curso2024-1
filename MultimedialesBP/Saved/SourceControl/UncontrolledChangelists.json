@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Blueprints/BP_TextoPrueba.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/V9/L2WWNMWWG8RZYWG7CCCNRM.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Blueprints/GM_Curso2024.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/0/PL/3TBKC6TB7A1961WA6HXOEX.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/XV/KHWHJUUMOVMXSBPAM8VVSE.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Blueprints/BP_BaseCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/Character/BP_NewCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/HR/EVPQY0OPEJ3X4XJXVFYUGW.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/Character/CharacterInput/IA_Movements.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/Character/CharacterInput/IA_Look.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/Character/CharacterInput/IMC_PlayerInputs.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/Character/CharacterInput/IA_Jump.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/Character/CharacterInput/IA_Jump_.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/Character/CharacterInput/IA_Look_.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/Character/CharacterInput/IA_Movements_.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/Character/CharacterInput/IMC_PlayerInputs_.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Blueprints/MyContent/GM_Curso2024.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Blueprints/MyContent/BP_PlayerCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Blueprints/MyContent/BP_BaseCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Blueprints/MyContent/BP_TextoPrueba.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Blueprints/MyContent/BP_Coin.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/13/5NPSNF3MTHA2F46XUTJR2N.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/55/DEK4MM3WRESA120PLVW51P.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MultimedialesBP/Content/ThirdPerson/Blueprints/BP_HelloWorld.uasset"
+			]
+		}
+	]
+}
